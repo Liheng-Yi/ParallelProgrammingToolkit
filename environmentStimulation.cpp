@@ -6,7 +6,6 @@
 
 using namespace std;
 
-// Declaration of global variables
 int NowYear = 2024;
 int NowMonth = 1;
 
